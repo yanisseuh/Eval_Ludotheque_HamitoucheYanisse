@@ -88,6 +88,6 @@ include('includes/header.php');
     <?php } else { ?>
         <p>Aucun jeu n'est disponible pour le moment.</p>
     <?php } ?>
-</main>
+</main> 
 
 <?php include('includes/footer.php'); ?>
